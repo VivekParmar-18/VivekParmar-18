@@ -1,7 +1,5 @@
 # Hello, I'm Vivek Parmar 👋
 
-![Header Image](https://raw.githubusercontent.com/VivekParmar-18/VivekParmar-18/main/assets/header.png) <!-- Replace with your custom header image URL -->
-
 ## 🚀 About Me
 
 I'm a passionate **Software Developer** with a love for creating dynamic web applications. Always eager to learn and collaborate on exciting projects!
@@ -40,14 +38,10 @@ I'm a passionate **Software Developer** with a love for creating dynamic web app
 ---
 
 ## 📈 GitHub Stats
+ ![Profile Views](https://komarev.com/ghpvc/?username=VivekParmar-18&label=Profile%20Views&color=blue&style=flat)
 
 ![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VivekParmar-18&show_icons=true&hide_border=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekParmar-18&layout=compact&theme=radical)
-
----
-
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=VivekParmar-18&label=Profile%20Views&color=blue&style=flat)
 
 ---
 
@@ -57,7 +51,7 @@ I'm a passionate **Software Developer** with a love for creating dynamic web app
 *✨ Built a frontend using **Angular** and **PrimeNG** for an innovative lab automation tool. This project enhances the efficiency and management of laboratory tasks.*
 
 ### [Employee Management Tool](https://github.com/Techorce/NEMS)
-*✨ An **Employee Management Tool** designed to streamline HR processes and manage employee data effectively. [Demo](https://link_to_demo)*
+*✨ An **Employee Management Tool** designed to streamline HR processes and manage employee data effectively.*
 
 ---
 
