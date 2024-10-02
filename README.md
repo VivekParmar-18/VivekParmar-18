@@ -19,8 +19,8 @@ I'm a passionate **Software Developer** with a love for creating dynamic web app
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000) 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000) 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000) 
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ff9f00?style=flat&logo=java&logoColor=fff) 
@@ -45,11 +45,6 @@ I'm a passionate **Software Developer** with a love for creating dynamic web app
 
 ---
 
-## 🎮 GitHub Contribution Activity
-![GitHub Contribution Snake](https://github.com/vivekparmar-18/vivekparmar-18/blob/output/github-contribution-grid-snake.gif)
-
----
-
 ## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=VivekParmar-18&label=Profile%20Views&color=blue&style=flat)
 
@@ -71,12 +66,5 @@ I'm a passionate **Software Developer** with a love for creating dynamic web app
 
 ---
 
-## 🎨 Fun Stuff
-
-### My GitHub Activity
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VivekParmar-18&theme=react-dark)
-
-
----
 
 ### Thank you for visiting my profile! 😊
