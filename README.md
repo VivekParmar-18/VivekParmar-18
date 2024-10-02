@@ -55,19 +55,6 @@ I'm a passionate **Software Developer** with a love for creating dynamic web app
 
 ---
 
-## 🔍 Featured Repositories
-
-### [Project 1](https://github.com/VivekParmar-18/project1)
-*✨ A brief description of what this project does and its key features. [Demo](https://link_to_demo)*
-
-### [Project 2](https://github.com/VivekParmar-18/project2)
-*✨ A brief description of what this project does and its key features. [Demo](https://link_to_demo)*
-
-### [Project 3](https://github.com/VivekParmar-18/project3)
-*✨ A brief description of what this project does and its key features. [Demo](https://link_to_demo)*
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced **Java** Concepts
@@ -89,9 +76,6 @@ I'm a passionate **Software Developer** with a love for creating dynamic web app
 ### My GitHub Activity
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VivekParmar-18&theme=react-dark)
 
-### Animated GIFs
-![Coding GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi8jz9K/giphy.gif)
-![Motivation GIF](https://media.giphy.com/media/3o7aD6tF7T2fPjt0EC/giphy.gif)
 
 ---
 
