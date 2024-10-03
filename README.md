@@ -4,8 +4,8 @@
 
 I'm a passionate **Software Developer** with a love for creating dynamic web applications. Always eager to learn and collaborate on exciting projects!
 
-- 🌍 Based in Ahmedabad,India
-- 🎓 Studied at Gujarat Technological University
+- 🌍 Based in Ahmedabad, India
+- 🎓 Studied at [Gujarat Technological University](https://www.gtu.ac.in)
 - 💼 Currently working at [Techforce Global](https://techforceglobal.com)
 - 📫 Reach me at: [parmarvivek05@gmail.com](mailto:parmarvivek05@gmail.com)
 
