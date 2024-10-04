@@ -65,11 +65,12 @@ I'm a passionate **Software Developer** with a love for creating dynamic web app
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/vivekparmar1812)
-- [Twitter](https://twitter.com/vivekparmar18)
-- [Email](mailto:vivek.parmar@example.com)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/vivekparmar1812)
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/vivekparmar18)
+[Email](mailto:vivek.parmar@example.com)
 
 ---
+
 
 
 ### Thank you for visiting my profile! 😊
