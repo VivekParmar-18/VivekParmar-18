@@ -65,15 +65,9 @@ I'm a passionate **Software Developer** with a love for creating dynamic web app
 
 ## 📫 Connect with Me
 
-<a href="https://www.linkedin.com/in/vivekparmar1812">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="24" height="24"/>
-</a>
-<a href="https://www.instagram.com/vivekparmar18">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="24" height="24"/>
-</a>
-<a href="mailto:vivek.parmar@example.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Email_icon.svg" alt="Email" width="24" height="24"/>
-</a>
+- [LinkedIn](https://www.linkedin.com/in/vivekparmar1812)
+- [Instagram](https://www.instagram.com/vivekparmar18)
+- [Email](mailto:vivek.parmar@example.com)
 
 ---
 
