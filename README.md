@@ -67,7 +67,7 @@ I'm a passionate **Software Developer** with a love for creating dynamic web app
 
 - [LinkedIn](https://www.linkedin.com/in/vivekparmar1812)
 - [Instagram](https://www.instagram.com/vivek_.l8)
-- [Email](mailto:vivek.parmar@example.com)
+- [Email](mailto:parmarvivek05@gmail.com)
 
 ---
 
