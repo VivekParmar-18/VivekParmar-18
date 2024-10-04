@@ -78,8 +78,5 @@ I'm a passionate **Software Developer** with a love for creating dynamic web app
 ---
 
 
----
-
-
 
 ### Thank you for visiting my profile! 😊
