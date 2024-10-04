@@ -38,7 +38,7 @@ I'm a passionate **Software Developer** with a love for creating dynamic web app
 ---
 
 ## 📈 GitHub Stats
- ![Profile Views](https://komarev.com/ghpvc/?username=RameshMF&label=Profile%20Views&color=blue&style=flat)
+ ![Profile Views](https://komarev.com/ghpvc/?username=VivekParmar-18&label=Profile%20Views&color=blue&style=flat)
 
 ![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VivekParmar-18&show_icons=true&hide_border=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekParmar-18&layout=compact&theme=radical)
