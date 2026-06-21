@@ -2,17 +2,18 @@
 
 # Vivek Parmar
 
-### Full-Stack Software Engineer
+### Backend-Focused Full Stack Engineer
 
-Building scalable backend systems, cloud-native applications, and modern web experiences.
+Building scalable healthcare and business platforms with Java, Spring Boot, React & AWS
 
 <p align="center">
-<a href="https://vivekparmar.is-a.dev/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel"/>
+
+<a href="https://vivekparmar.is-a.dev">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/vivek1812/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Vivek_Parmar-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:vivek18parmar@gmail.com">
@@ -21,39 +22,63 @@ Building scalable backend systems, cloud-native applications, and modern web exp
 
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Full-Stack+Software+Engineer;Java+%7C+Spring+Boot+%7C+React+%7C+AWS;Building+Enterprise+Healthcare+Solutions;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Backend-Focused+Full+Stack+Engineer;Java+17+%7C+Spring+Boot+%7C+React+%7C+AWS;Building+Enterprise+Healthcare+Platforms;40%2B+REST+APIs+Designed+and+Delivered;Cloud+Architecture+%7C+System+Design;Always+Learning+Always+Building" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a Software Developer passionate about building reliable and scalable software.
+I'm a Backend-Focused Full Stack Engineer with professional experience building enterprise healthcare applications using Java, Spring Boot, React, TypeScript, AWS, and MySQL.
 
-My experience spans backend engineering, frontend development, cloud deployments, healthcare integrations, payment systems, and enterprise workflow automation.
+I enjoy designing scalable backend systems, integrating third-party platforms, optimizing application performance, and building software that solves real business problems.
 
-I enjoy turning complex business requirements into clean, maintainable, production-ready solutions.
+Currently focused on distributed systems, cloud-native architectures, microservices, and high-performance backend development.
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Engineering Snapshot
+
+<table>
+<tr>
+<td>
+
+**Experience**
+
+* 2+ Years
+* Software Developer
+
+</td>
+
+<td>
+
+**Domain**
+
+* Healthcare Technology
+* Enterprise Applications
+
+</td>
+
+<td>
+
+**Current Focus**
+
+* System Design
+* AWS Architecture
+* Distributed Systems
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,mysql,aws,git,github,postman,idea,vscode" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,mysql,aws,git,github,maven,postman,idea,vscode" />
 </p>
-
----
-
-## 🚀 Current Focus
-
-```text
-☕ Advanced Spring Boot Development
-☁️ AWS & Cloud Architecture
-🏗️ Microservices & Distributed Systems
-📐 System Design
-🌍 Open Source Contributions
-```
 
 ---
 
@@ -61,11 +86,9 @@ I enjoy turning complex business requirements into clean, maintainable, producti
 
 <p align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=VivekParmar-18&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VivekParmar-18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekParmar-18&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekParmar-18&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -75,7 +98,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekParmar-
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekParmar-18&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=VivekParmar-18&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -85,87 +108,125 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekParmar-
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VivekParmar-18&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VivekParmar-18&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 📋 Profile Summary
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VivekParmar-18&theme=tokyonight&row=1&column=7&no-frame=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VivekParmar-18&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 💼 Professional Highlights
 
-<p align="center">
+<table>
+<tr>
+<td align="center">
+<h3>40+</h3>
+REST APIs Delivered
+</td>
 
-<img src="https://raw.githubusercontent.com/VivekParmar-18/VivekParmar-18/output/github-contribution-grid-snake.svg" />
+<td align="center">
+<h3>10,000+</h3>
+Orders & Invoices Processed
+</td>
 
-</p>
+<td align="center">
+<h3>100+</h3>
+Organizations Supported
+</td>
+</tr>
+</table>
 
 ---
 
-## 💼 Featured Work
+## 🏥 Enterprise Healthcare Platform
 
 <details>
-<summary><b>🏥 Healthcare Platform Development</b></summary>
+<summary><b>View Details</b></summary>
 
-<br>
+### Key Contributions
 
-Worked on healthcare-focused enterprise applications involving:
+* Designed and developed REST APIs for healthcare workflows
+* Built order, invoice, payment, and document processing services
+* Implemented JWT authentication and role-based access control
+* Integrated Stripe payments and third-party systems
+* Developed real-time notification features
+* Supported production environments across AWS
 
-* Patient workflows
-* Insurance verification
-* EHR integrations
-* Payment processing
-* AWS-hosted services
-* Backend API development
+### Technologies
 
-Tech Stack:
-
-Java • Spring Boot • React • MySQL • AWS
+Java 17 • Spring Boot • Spring Security • React • TypeScript • MySQL • AWS
 
 </details>
 
+---
+
+## ☁️ Cloud & Integrations
+
 <details>
-<summary><b>⚙️ Employee Management System (NEMS)</b></summary>
+<summary><b>View Details</b></summary>
 
-<br>
+### AWS
 
-A scalable employee management platform designed to streamline workforce operations.
+* EC2
+* S3
+* Lambda
+* RDS
 
-Features:
+### Integrations
 
-* Authentication & Authorization
-* Employee Lifecycle Management
-* Role-Based Access Control
-* REST API Architecture
+* Stripe Payments
+* ERP Systems
+* Email Services
+* SMS Providers
+* Tracking Platforms
+* Webhooks
+
+### DevOps
+
+* Jenkins
+* GitHub
+* SVN Migration
+* CI/CD Pipelines
 
 </details>
 
-<details>
-<summary><b>🚀 Full Stack Web Applications</b></summary>
+---
 
-<br>
+## 🎯 Current Engineering Focus
 
-Building modern web applications using:
+* Distributed Systems
+* Event-Driven Architecture
+* Microservices
+* AWS Solutions Architecture
+* Backend Performance Optimization
+* Open Source Contributions
 
-* React
-* TypeScript
-* Spring Boot
-* REST APIs
-* MySQL
-* AWS
+---
 
-Focused on maintainability, performance, and user experience.
+## 📚 Currently Exploring
 
-</details>
+```java
+public class CurrentLearning {
+    
+    String[] topics = {
+        "Microservices Architecture",
+        "System Design",
+        "AWS Advanced Services",
+        "Distributed Job Scheduling",
+        "Event-Driven Systems",
+        "Scalable Backend Design"
+    };
+}
+```
 
 ---
 
@@ -173,22 +234,28 @@ Focused on maintainability, performance, and user experience.
 
 <p align="center">
 
-<a href="https://vivekparmar.is-a.dev/">
-Portfolio
+<a href="https://vivekparmar.is-a.dev">
+<img src="https://img.shields.io/badge/Portfolio-vivekparmar.is--a.dev-success?style=for-the-badge&logo=vercel"/>
 </a>
-•
+
 <a href="https://www.linkedin.com/in/vivek1812/">
-LinkedIn
+<img src="https://img.shields.io/badge/LinkedIn-vivek1812-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-•
+
 <a href="mailto:vivek18parmar@gmail.com">
-Email
+<img src="https://img.shields.io/badge/Email-vivek18parmar%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/VivekParmar-18">
+<img src="https://img.shields.io/badge/GitHub-VivekParmar--18-black?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
 
-> Building software that is reliable today and scalable tomorrow.
+<div align="center">
+
+### "Building software that scales, stays maintainable, and solves real-world problems."
 
 </div>
