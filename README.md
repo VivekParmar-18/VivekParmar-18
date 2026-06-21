@@ -1,123 +1,194 @@
-# Hi 👋, I'm Vivek Parmar  
+<div align="center">
 
-🚀 **Software Developer | Full-Stack Java Developer | Lifelong Learner**
+# Vivek Parmar
 
-I’m a passionate software developer who enjoys building **scalable, user-friendly web applications** and continuously improving system performance.  
-I love working on **real-world problems**, collaborating with teams, and learning new technologies.
+### Full-Stack Software Engineer
 
----
+Building scalable backend systems, cloud-native applications, and modern web experiences.
 
-## 🧑‍💻 About Me
+<p align="center">
+<a href="https://vivekparmar.is-a.dev/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel"/>
+</a>
 
-- 🌍 Based in **Ahmedabad, India**
-- 🎓 Graduate from **Gujarat Technological University (GTU)**
-- 💼 Currently working as a **Software Developer**
-- 🧠 Strong interest in **Backend Architecture, Clean Code & System Design**
-- ⚡ Fun fact: I enjoy optimizing slow code almost as much as writing new features 😄
+<a href="https://www.linkedin.com/in/vivek1812/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-📫 **Reach me at:**  
-📧 [parmarvivek05@gmail.com](mailto:parmarvivek05@gmail.com)
+<a href="mailto:vivek18parmar@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
 
----
+</p>
 
-## 🛠️ Tech Stack & Tools
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Full-Stack+Software+Engineer;Java+%7C+Spring+Boot+%7C+React+%7C+AWS;Building+Enterprise+Healthcare+Solutions;Always+Learning+Always+Building" />
 
-### 🚀 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=fff)
-![PrimeNG](https://img.shields.io/badge/PrimeNG-0073B1?style=flat&logo=primeng&logoColor=fff)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
-
-### 🧩 Backend
-![Java](https://img.shields.io/badge/Java-ff9f00?style=flat&logo=java&logoColor=fff)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=fff)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff)
-
-### 🗄️ Database & ORM
-![MySQL](https://img.shields.io/badge/MySQL-005C82?style=flat&logo=mysql&logoColor=fff)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=fff)
-
-### 🔧 Tools & Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)
-![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat&logo=subversion&logoColor=fff)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=fff)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=fff)
+</div>
 
 ---
 
-## 🧠 What I’m Good At
+## 👨‍💻 About Me
 
-- ✔ Designing RESTful APIs using **Spring Boot**
-- ✔ Writing clean, maintainable Java code
-- ✔ Frontend development with **Angular & React**
-- ✔ Database design & query optimization
-- ✔ Debugging complex production issues
-- ✔ Collaborating with cross-functional teams
+I'm a Software Developer passionate about building reliable and scalable software.
 
----
+My experience spans backend engineering, frontend development, cloud deployments, healthcare integrations, payment systems, and enterprise workflow automation.
 
-## 📌 Featured Projects
-
-### 🔬 Lab Automation Tool
-🔗 **Frontend:** Angular + PrimeNG  
-✨ Built a responsive UI to automate lab workflows, reduce manual effort, and improve task tracking.
-
-**Key Highlights**
-- Modular UI components
-- Role-based screens
-- Improved productivity & data visibility
+I enjoy turning complex business requirements into clean, maintainable, production-ready solutions.
 
 ---
 
-### 🧑‍💼 Employee Management System (NEMS)
-🔗 https://github.com/Techorce/NEMS  
+## ⚡ Tech Stack
 
-✨ A complete HR management solution to handle employees, roles, and records efficiently.
-
-**Key Features**
-- Secure authentication
-- Employee CRUD operations
-- Clean and scalable backend architecture
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,mysql,aws,git,github,postman,idea,vscode" />
+</p>
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 🚀 Current Focus
 
-![Profile Views](https://komarev.com/ghpvc/?username=VivekParmar-18&label=Profile%20Views&color=blue&style=flat)
-
-![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VivekParmar-18&show_icons=true&hide_border=true&count_private=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekParmar-18&layout=compact&theme=radical)
-
----
-
-## 🌱 Currently Learning
-
-- ☕ Advanced **Java & Spring Boot**
-- 🤖 **Machine Learning** with Python
-- ☁ **Cloud Computing** – AWS & Azure
-- 📐 Basics of **System Design & Microservices**
+```text
+☕ Advanced Spring Boot Development
+☁️ AWS & Cloud Architecture
+🏗️ Microservices & Distributed Systems
+📐 System Design
+🌍 Open Source Contributions
+```
 
 ---
 
-## 🤝 Let’s Connect
+## 📊 GitHub Analytics
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/vivekparmar1812)
-- 📸 [Instagram](https://www.instagram.com/vivek_.l8)
-- 📧 [Email](mailto:parmarvivek05@gmail.com)
+<p align="center">
 
----
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=VivekParmar-18&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## ⭐ If you like my work
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekParmar-18&layout=compact&theme=tokyonight&hide_border=true"/>
 
-- Give a ⭐ to my repositories  
-- Connect with me on LinkedIn  
-- Feel free to reach out for collaboration or discussion  
+</p>
 
 ---
 
-### 🙏 Thank you for visiting my profile!
-Happy Coding! 🚀
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekParmar-18&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VivekParmar-18&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=VivekParmar-18&theme=tokyonight&row=1&column=7&no-frame=true"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/VivekParmar-18/VivekParmar-18/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+## 💼 Featured Work
+
+<details>
+<summary><b>🏥 Healthcare Platform Development</b></summary>
+
+<br>
+
+Worked on healthcare-focused enterprise applications involving:
+
+* Patient workflows
+* Insurance verification
+* EHR integrations
+* Payment processing
+* AWS-hosted services
+* Backend API development
+
+Tech Stack:
+
+Java • Spring Boot • React • MySQL • AWS
+
+</details>
+
+<details>
+<summary><b>⚙️ Employee Management System (NEMS)</b></summary>
+
+<br>
+
+A scalable employee management platform designed to streamline workforce operations.
+
+Features:
+
+* Authentication & Authorization
+* Employee Lifecycle Management
+* Role-Based Access Control
+* REST API Architecture
+
+</details>
+
+<details>
+<summary><b>🚀 Full Stack Web Applications</b></summary>
+
+<br>
+
+Building modern web applications using:
+
+* React
+* TypeScript
+* Spring Boot
+* REST APIs
+* MySQL
+* AWS
+
+Focused on maintainability, performance, and user experience.
+
+</details>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://vivekparmar.is-a.dev/">
+Portfolio
+</a>
+•
+<a href="https://www.linkedin.com/in/vivek1812/">
+LinkedIn
+</a>
+•
+<a href="mailto:vivek18parmar@gmail.com">
+Email
+</a>
+
+</p>
+
+---
+
+> Building software that is reliable today and scalable tomorrow.
+
+</div>
